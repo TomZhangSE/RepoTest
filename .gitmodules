@@ -1,0 +1,4 @@
+[submodule "DINRailHubTestFirmware"]
+	path = DINRailHubTestFirmware
+	url = https://github.com/TomZhangSE/DINRailHubTestFirmware.git
+	branch = TomCommit
